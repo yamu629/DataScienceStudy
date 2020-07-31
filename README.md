@@ -1,2 +1,1 @@
-# DataScienceStudy
-IIIT B case studies and assignments
+Clustering countries based on GDP using k-clustering and hierarchial clustering
